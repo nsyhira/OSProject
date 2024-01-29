@@ -261,6 +261,7 @@ cache_alignment : 64
 address sizes   : 48 bits physical, 48 bits virtual
 power management:
 __.
+
 9. Run the command **top** and type **q** to quit. ***(1 mark)*** __processor       : 1
 vendor_id       : AuthenticAMD
 cpu family      : 25
@@ -297,13 +298,21 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   5968.0 avail Mem
    1582 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                          
    2192 codespa+  20   0    2624   1664   1664 S   0.0   0.0   0:00.00 sh                                          
    2224 codespa+  20   0  973732 116272  42368 S   0.0   1.4   0:06.00 node                                        __.
+
 10. Run the command **uname -a**. ***(1 mark)*** __Linux codespaces-be9762 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux__.
+
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
+
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
+
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
+
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
+
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
 
 ## Running your own container instance.
